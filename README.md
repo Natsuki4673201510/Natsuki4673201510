@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>岩崎夏希の凄さがわかる話５選</title>
+    <title>採用しなきゃ勿体無い！岩崎夏希の凄さがわかる話５選</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -59,63 +59,42 @@
     <div class="section">
         <h3>目次</h3>
         <ul>
-            <li onclick="scrollToSection('basic-info')">① 基本情報</li>
-            <li onclick="scrollToSection('kindergarten')">② 幼稚園時代</li>
-            <li onclick="scrollToSection('elementary')">③ 小学校時代</li>
-            <li onclick="scrollToSection('junior-high')">④ 中学校時代</li>
-            <li onclick="scrollToSection('high-school')">⑤ 高校時代</li>
-            <li onclick="scrollToSection('university')">⑥ 大学生</li>
-            <li onclick="scrollToSection('summary')">⑦ まとめ</li>
+            <li onclick="scrollToSection('basic-info')">①基本情報</li>
+            <li onclick="scrollToSection('kindergarten')">②幼稚園時代</li>
+            <li onclick="scrollToSection('elementary')">③小学校時代</li>
+            <li onclick="scrollToSection('junior-high')">④中学校時代</li>
+            <li onclick="scrollToSection('high-school')">⑤高校時代</li>
+            <li onclick="scrollToSection('university')">⑥大学生</li>
+            <li onclick="scrollToSection('summary')">⑦まとめ</li>
         </ul>
     </div>
 
     <div class="section" id="basic-info">
-        <h3>① 基本情報</h3>
-        <p><strong>名前：</strong>岩崎夏希</p>
-        <p><strong>年齢：</strong>22歳</p>
-        <p><strong>出身：</strong>千葉県市川市（徒歩2分で東京に入るので、自分を都民だと思っている）</p>
-        <p><strong>趣味：</strong>野球（6歳からずっとやってる）</p>
-        <p><strong>特技：</strong>早起き</p>
-        <p><strong>好きな食べ物：</strong>オムライス</p>
-        <p><strong>通学時間：</strong>片道2時間半</p>
+        <h3>①基本情報</h3>
+        <p>名前：岩崎夏希</p>
+        <p>年齢：22歳</p>
+        <p>出身：千葉県市川市(徒歩2分で東京に入るので、自分を都民だと思っている)</p>
+        <p>趣味：野球(6歳からずっとやってる)</p>
+        <p>特技：早起き</p>
+        <p>好きな食べ物：オムライス</p>
+        <p>通学時間：片道2時間半</p>
     </div>
 
     <div class="section" id="kindergarten">
-        <h3>② 幼稚園時代</h3>
-        <p>給食でそら豆と初めて出会い、不味すぎて絶望。昼休みに遊ぶために水たまりに捨て、職員室送り。</p>
+        <h3>②幼稚園時代</h3>
+        <p>・給食を食べ終えないと昼休み遊べない系幼稚園に所属。給食でそら豆と初めて出会い、食べたところ不味過ぎて絶望。昼休み遊びたいため、残り２つをポケットに隠し、中庭の水たまりに捨てる。先生が「そら豆水たまりに捨てたのだれ！！」と怒鳴り、自供する。職員室行きになり、以来そら豆は二度と食べていない。</p>
     </div>
 
     <div class="section" id="elementary">
-        <h3>③ 小学校時代</h3>
-        <p>・5年生まで男子と公園でサッカーorポケモンバトルのみ。</p>
-        <p>・6年時にソフトボール投げ47m、学校歴代1位。</p>
-        <p>・2年生で中学3年の数学を習得。</p>
-    </div>
-
-    <div class="section" id="junior-high">
-        <h3>④ 中学校時代</h3>
-        <p>・男子野球部と女子野球チームの二刀流で週6日野球生活。</p>
-        <p>・受験前日にカーテンにぶら下がり自由落下し、腰を打撲。</p>
-    </div>
-
-    <div class="section" id="high-school">
-        <h3>⑤ 高校時代</h3>
-        <p>・球技祭ドッジボールで伝説を作り、ハーレム状態に。</p>
-        <p>・高校3年の夏、13時間勉強し偏差値15UPで第一志望合格。</p>
-    </div>
-
-    <div class="section" id="university">
-        <h3>⑥ 大学生</h3>
-        <p>・入学式をスルーし、海で7時間穴を掘る。</p>
-        <p>・オンデマンド締切漏れで落単。</p>
-        <p>・交通事故で人工靭帯を体内に入れる。</p>
-        <p>・LGBTQ+の居場所作りを開始。</p>
-        <p>・クリエイティブな未来を求め就活をやめる。</p>
+        <h3>③小学校時代</h3>
+        <p>・5年生まで男子と放課後公園でサッカーor児童館でDSによるポケモンバトルという２種類の遊びしか知らない。</p>
+        <p>・6歳から野球をしていた影響で、6年生時にソフトボール投げ47mを記録し、創立120年の学校で女子歴代1位の記録を樹立。(今もなお1位らしい)</p>
+        <p>・東日本大震災の時は公文で勉強をしていた。2年生で中学3年生の数学をやっていた誇らしい過去の栄光。</p>
     </div>
 
     <div class="section" id="summary">
-        <h3>⑦ まとめ</h3>
-        <p>幼少期から挑戦と失敗を繰り返し、野球と勉強に打ち込み、大学では新しい価値観を創造。普通に囚われず、自分らしさを貫く。これまでの経験と行動力で、新しい未来を自分で切り開く人間である。</p>
+        <h3>⑦まとめ</h3>
+        <p>「幼少期から挑戦と失敗を繰り返し、野球と勉強に打ち込み、大学では新しい価値観を創造。普通に囚われず、自分らしさを貫く。これまでの経験と行動力で、新しい未来を自分で切り開く人間である。」</p>
     </div>
 
     <div class="footer">
@@ -130,18 +109,3 @@
 
 </body>
 </html>
-
-<!--
-**Natsuki4673201510/Natsuki4673201510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
